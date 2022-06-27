@@ -1,0 +1,31 @@
+
+/* Яким буде колір тексту абзаців? */
+body {
+    color: #2a2a2a;
+}
+
+
+
+.post {
+    color: green;
+}
+
+
+.post-link {
+    color: inherit;
+}
+
+.section {
+    /* Інші стилі */
+    border: 2px solid #3f51b5;
+}
+
+.section-title {
+    /* Інші стилі */
+    color: #3f51b5;
+}
+
+.section-title::before {
+    /* Інші стилі */
+    background-color: #3f51b5;
+}
